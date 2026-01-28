@@ -1,95 +1,148 @@
-# Kapı Önü – Gizlilik Politikası (Privacy Policy)
+1. Toplanan Veriler
 
-**Son Güncelleme / Last Updated:** 28 January 2026
+Kapı Önü kullanıcı hesabı gerektirmez ve kişisel veri toplamaz.
 
----
+🔹 Kişisel Olmayan Veriler
 
-## Türkçe
+Uygulama aşağıdaki anonim verileri toplayabilir:
 
-Kapı Önü (“uygulama”), kullanıcı gizliliğini korumayı taahhüt eder. Bu Gizlilik Politikası, uygulamanın hangi bilgileri topladığını ve nasıl kullandığını açıklar.
+Uygulama çökme raporları ve hata kayıtları
 
-### 1. Toplanan Veriler
-Kapı Önü **kişisel veri toplamaz** ve kullanıcı hesabı gerektirmez.
+Cihaz bilgileri (Android sürümü, cihaz modeli, dil)
 
-Uygulama aşağıdaki **kişisel olmayan** verileri toplayabilir:
-- Uygulama çökme raporları ve hata kayıtları (ör. Crashlytics kullanılıyorsa)
-- Cihaz bilgileri (Android sürümü, cihaz modeli, dil)
+🔹 Kullanıcı Tarafından Girilen Veriler
 
-Kullanıcının oluşturduğu kontrol listeleri (anahtar, ocak, ütü vb.) ve ayarlar:
-- **Yalnızca cihaz içinde saklanır**
-- **Sunucuya gönderilmez**
-- Uygulama kaldırıldığında cihazdan silinir
+Kontrol listeleri (anahtar, ocak, ütü vb.)
 
-### 2. Verilerin Kullanımı
-Toplanan veriler yalnızca şu amaçlarla kullanılır:
-- Uygulama performansını iyileştirmek
-- Hata ve çökmeleri tespit etmek
-- Kullanıcı deneyimini geliştirmek
+Hatırlatıcı ayarları
 
-Kapı Önü, kullanıcı verilerini **satmaz** ve **reklam amacıyla paylaşmaz**.
+Kullanıcının eklediği görseller
 
-### 3. Üçüncü Taraf Hizmetler
+Bu veriler yalnızca kullanıcının cihazında saklanır ve sunucularımıza gönderilmez.
+
+2. Kamera İzni
+
+Kapı Önü, kontrol listesine görsel ekleme özelliği için kamera izni isteyebilir.
+
+Kamera yalnızca kullanıcı ilgili özelliği başlattığında çalışır.
+
+Kamera görüntüsü sunucularımıza gönderilmez ve bizim tarafımızdan saklanmaz.
+
+Kamera arka planda çalıştırılmaz ve kullanıcı farkında olmadan kayıt yapılmaz.
+
+Kullanıcı kamera iznini cihaz ayarlarından kapatabilir; uygulamanın temel işlevleri kamera olmadan çalışır.
+
+3. Verilerin Kullanımı
+
+Toplanan veriler şu amaçlarla kullanılır:
+
+Uygulama performansını iyileştirmek
+
+Hataları ve çökmeleri tespit etmek
+
+Kullanıcı deneyimini geliştirmek
+
+Kapı Önü kullanıcı verilerini satmaz, kiralamaz ve üçüncü taraflarla paylaşmaz.
+
+4. Üçüncü Taraf Hizmetler
+
 Uygulama aşağıdaki üçüncü taraf hizmetleri kullanabilir:
-- Google Play Services
-- Firebase Crashlytics / Firebase Analytics (kullanılıyorsa)
 
-Bu hizmetler kendi gizlilik politikalarına tabidir.
+Google Play Services
 
-### 4. Veri Güvenliği
-Veriler mümkün olduğunca cihaz içinde tutulur. İnternet üzerinden iletilen veriler için %100 güvenlik garantisi verilemez.
+Firebase Crashlytics / Firebase Analytics (kullanılıyorsa)
 
-### 5. Çocukların Gizliliği
-Kapı Önü 13 yaş altından bilerek kişisel veri toplamaz.
+Bu hizmetlerin kendi gizlilik politikaları bulunmaktadır.
 
-### 6. Değişiklikler
-Bu politika zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanır.
+5. Veri Güvenliği
 
-### 7. İletişim
+Veriler mümkün olduğunca cihaz içinde tutulur.
+İnternet üzerinden iletilen veriler için %100 güvenlik garantisi verilemez.
+
+6. Çocukların Gizliliği
+
+Kapı Önü, 13 yaşın altındaki çocuklardan bilerek kişisel veri toplamaz.
+
+7. Politika Değişiklikleri
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir.
+Güncellemeler bu sayfada yayınlanır.
+
+8. İletişim
+
 Sorular için:
-- E-posta: **[BURAYA EMAIL YAZ]**
+📧 E-posta: [oguzkaan464@gmail.com]
 
----
-
-## English
+🌍 ENGLISH PRIVACY POLICY
 
 Kapı Önü (“the app”) is committed to protecting your privacy. This Privacy Policy explains what information we collect and how we use it.
 
-### 1. Information We Collect
-Kapı Önü does **not** require accounts and does **not** collect personal data.
+1. Information We Collect
 
-The app may collect **non-personal** information such as:
-- Crash and diagnostic logs (e.g., if Crashlytics is enabled)
-- Device information (Android version, device model, language)
+Kapı Önü does not require user accounts and does not collect personal data.
 
-Your checklist items (keys, stove, iron, etc.) and settings:
-- Are stored **locally on your device**
-- Are **not** sent to our servers
-- Are removed when you uninstall the app
+Non-Personal Information
 
-### 2. How We Use Information
-We use the collected information only to:
-- Improve performance
-- Detect and fix crashes
-- Enhance user experience
+Crash and diagnostic logs
 
-We do **not** sell your data and do **not** share it for advertising purposes.
+Device information (Android version, device model, language)
 
-### 3. Third-Party Services
+User-Provided Data
+
+Checklist items (keys, stove, iron, etc.)
+
+Reminder settings
+
+Images added by the user
+
+All data is stored locally on your device and is not transmitted to our servers.
+
+2. Camera Permission
+
+Kapı Önü may request camera permission to allow users to attach images to checklist items.
+
+The camera is used only when you actively start the feature.
+
+Camera data is not uploaded to our servers and not stored by us.
+
+The camera is not accessed in the background.
+
+You can disable camera permission in device settings; the core app remains functional.
+
+3. How We Use Information
+
+We use collected data to:
+
+Improve app performance
+
+Detect and fix crashes
+
+Enhance user experience
+
+We do not sell, rent, or share user data with third parties.
+
+4. Third-Party Services
+
 The app may use:
-- Google Play Services
-- Firebase Crashlytics / Firebase Analytics (if enabled)
 
-These services are governed by their own privacy policies.
+Google Play Services
 
-### 4. Data Security
+Firebase Crashlytics / Firebase Analytics (if enabled)
+
+These services have their own privacy policies.
+
+5. Data Security
+
 We keep data on-device whenever possible. No method of transmission over the Internet is 100% secure.
 
-### 5. Children’s Privacy
+6. Children’s Privacy
+
 We do not knowingly collect personal data from children under 13.
 
-### 6. Changes
-We may update this policy from time to time. Updates will be posted on this page.
+7. Changes
 
-### 7. Contact
-Email:
-- **[PUT YOUR EMAIL HERE]**
+We may update this Privacy Policy from time to time. Updates will be posted on this page.
+
+8. Contact
+
+Email: [oguzkaan464@gmail.com]
